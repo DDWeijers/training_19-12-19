@@ -20,7 +20,7 @@ For privacy reasons, I cannot share my input data here.
 The input data should at least contain three columns: chromosome (CHROM), start position (POS), end position (END). 
 Make sure the column names match the names between the brackets. 
 To run the script, change the input and output directories. 
-
+For versioning and dependencies, please refer to requirements.txt
 .
 ├── .gitignore
 ├── CITATION.md
